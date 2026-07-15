@@ -1,6 +1,6 @@
-Label,Mission,Description,Detailed Description
-1,SSS,Sky Sentinel Strike,"Strike mission involving coordinated attacker, left flanker, right flanker, and decoy."
-2,EPS,Escort Penetration Strike,Escort mission where three escorts protect a penetrating aircraft during ingress and attack.
-3,ASS,Anti-Ship Strike,"Anti-ship strike mission involving Low Altitude Attacker 1(LAA1), Low Altitude Attacker (LAA2), and decoy"
-4,Recon,Reconnaissance,Reconnaissance mission involving coordinated search and tracking behaviours.
-5,NM,No Mission,No coordinated mission is being executed. Agents exhibit routine or non-mission-specific movements without a collective tactical objective.
+Label,Mission,Description,Agents,Phase 1,Phase 2,Phase 3
+1,SSS,Sky Sentinel Strike,"Attacker, Left flanker, Right flanker, and Decoy.",Formation ingress toward the objective.,"Tactical role separation where the attacker, flankers, and decoy assume mission-specific positions.",Coordinated strike execution with attacker engaging the target while flankers and decoy provide tactical support.
+2,EPS,Escort Penetration Strike,Escorts and Penatrator,Escort formation advances with the penetrator toward the objective.,Escorts reposition to provide protective coverage around the penetrator.,Escorts counter potential threats while the penetrator proceeds to accomplish the mission objective.
+3,ASS,Anti-Ship Strike,"Low Altitude Attackers, Decoy",Formation approaches the target area at operational altitude.,Low-altitude attackers descend while the decoy executes diversionary manoeuvres.,Coordinated anti-ship strike by the attackers while the decoy distracts opposing forces.
+4,Recon,Reconnaissance,Homogeneous agents perform all 3 phases,"Agents disperse to explore the designated region, maximizing area coverage while maintaining team coordination to search for potential targets.","Upon detecting a target, the agents converge by adjusting their trajectories and coordinating their movements to establish a common focus.",Agents collaboratively maintain continuous tracking of the identified target through coordinated manoeuvres and synchronized observations.
+5,NM,No Mission,,No coordinated mission is being executed.,,
