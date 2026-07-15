@@ -1,0 +1,4 @@
+Scenario,Missions Included,No. of Agents,Original Time Steps,Released Time Steps,Description
+Scenario_01,"SSS, EPS, ASS, Recon, NM",17,500,50,Multi-mission scenario containing all five mission classes. A 50-step subset of the original 500-step sequence is released as a representative sample for demonstration purposes.
+Scenario_02,"SSS, EPS, Recon, NM",14,500,50,Multi-mission scenario containing four mission classes (excluding ASS). A 50-step subset of the original 500-step sequence is released as a representative sample for demonstration purposes.
+,,,,,

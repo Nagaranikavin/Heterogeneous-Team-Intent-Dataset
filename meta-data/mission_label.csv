@@ -1,0 +1,6 @@
+Label,Mission,Description,Detailed Description
+1,SSS,Sky Sentinel Strike,"Strike mission involving coordinated attacker, left flanker, right flanker, and decoy."
+2,EPS,Escort Penetration Strike,Escort mission where three escorts protect a penetrating aircraft during ingress and attack.
+3,ASS,Anti-Ship Strike,"Anti-ship strike mission involving Low Altitude Attacker 1(LAA1), Low Altitude Attacker (LAA2), and decoy"
+4,Recon,Reconnaissance,Reconnaissance mission involving coordinated search and tracking behaviours.
+5,NM,No Mission,No coordinated mission is being executed. Agents exhibit routine or non-mission-specific movements without a collective tactical objective.

@@ -1,0 +1,34 @@
+Category,Feature,Description,Unit
+Raw,time,Simulation timestamp,s
+Raw,id,Unique agent identifier,Integer
+Raw,x,X-coordinate,m
+Raw,y,Y-coordinate,m
+Raw,z,Altitude,m
+Raw,vx,Velocity along X-axis,m/s
+Raw,vy,Velocity along Y-axis,m/s
+Raw,vz,Velocity along Z-axis,m/s
+Raw,yaw,Heading angle,rad
+Raw,pitch,Pitch angle,rad 
+Raw,roll,Roll angle,rad 
+Node,pos_x,X-coordinate,m
+Node,pos_y,Y-coordinate,m
+Node,pos_z,Altitude,m
+Node,vel_x,Velocity along X-axis,m/s
+Node,vel_y,Velocity along Y-axis,m/s
+Node,vel_z,Velocity along Z-axis,m/s
+Node,speed,Speed magnitude,m/s
+Node,heading_angle,Direction of motion,rad 
+Node,turn_rate,Rate of heading change,rad/s
+Node,acceleration,Speed acceleration,m/s²
+Edge,relative_distance,Euclidean distance between two agents,m
+Edge,relative_position_x,Relative X-position,m
+Edge,relative_position_y,Relative Y-position,m
+Edge,relative_position_z,Relative altitude difference,m
+Edge,relative_velocity_x,Relative velocity along X-axis,m/s
+Edge,relative_velocity_y,Relative velocity along Y-axis,m/s
+Edge,relative_velocity_z,Relative velocity along Z-axis,m/s
+Edge,speed_difference,Difference in speed,m/s
+Edge,relative_altitude,Vertical separation,m
+Edge,vertical_speed_difference,Difference in vertical speed,m/s
+Edge,heading_difference,Difference in heading angles,rad (or deg)
+Edge,closing_velocity,Relative velocity projected along the line of sight,m/s
