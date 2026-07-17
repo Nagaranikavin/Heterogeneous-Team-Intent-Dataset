@@ -7,6 +7,14 @@ Unlike conventional trajectory datasets that focus primarily on individual agent
 Air combat is used as the case study due to its highly dynamic and coordination-intensive nature; however, the dataset is intended to support broader research in heterogeneous multi-agent systems, temporal graph learning, collective behaviour modelling, team reasoning, and autonomous decision support.
 
 The complete dataset contains 74 heterogeneous air combat scenarios consisting of raw trajectories, node features and edge features. To keep the GitHub repository lightweight, representative sample scenarios are included. The complete dataset will be made publicly available upon reasonable request.
+## Supplementary Videos
+
+The mission execution videos used for dataset generation are available in the `Mission Videos` folder. These videos illustrate the behavior of each mission and provide visual verification of the generated trajectories.
+
+[^1]: Mission demonstration videos: https://github.com/Nagaranikavin/Heterogeneous-Team-Intent-Dataset/tree/main/Mission%20Videos
+
+> **Note:** Detailed demonstration videos can also be accessed here:https://github.com/Nagaranikavin/Heterogeneous-Team-Intent-Dataset/tree/main/Mission%20Videos
 ## Dataset Overview
 
 ![Heterogeneous_Team_Intent Dataset](images/dataset_overview.png)
+
